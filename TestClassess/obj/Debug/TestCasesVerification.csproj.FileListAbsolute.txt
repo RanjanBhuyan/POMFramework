@@ -1,0 +1,16 @@
+C:\SelenuimTest\POMFramework\TestClassess\bin\Debug\TestClassess.dll
+C:\SelenuimTest\POMFramework\TestClassess\bin\Debug\TestClassess.pdb
+C:\SelenuimTest\POMFramework\TestClassess\bin\Debug\BaseClass.dll
+C:\SelenuimTest\POMFramework\TestClassess\bin\Debug\nunit.framework.dll
+C:\SelenuimTest\POMFramework\TestClassess\bin\Debug\POMFramework.dll
+C:\SelenuimTest\POMFramework\TestClassess\bin\Debug\WebDriver.dll
+C:\SelenuimTest\POMFramework\TestClassess\bin\Debug\WebDriver.Support.dll
+C:\SelenuimTest\POMFramework\TestClassess\bin\Debug\BaseClass.pdb
+C:\SelenuimTest\POMFramework\TestClassess\bin\Debug\POMFramework.pdb
+C:\SelenuimTest\POMFramework\TestClassess\bin\Debug\WebDriver.xml
+C:\SelenuimTest\POMFramework\TestClassess\bin\Debug\WebDriver.Support.xml
+C:\SelenuimTest\POMFramework\TestClassess\obj\Debug\TestCasesVerification.csprojResolveAssemblyReference.cache
+C:\SelenuimTest\POMFramework\TestClassess\obj\Debug\TestClassess.dll
+C:\SelenuimTest\POMFramework\TestClassess\obj\Debug\TestClassess.pdb
+C:\SelenuimTest\POMFramework\TestClassess\bin\Debug\TestData\LoginTestData.csv
+C:\SelenuimTest\POMFramework\TestClassess\bin\Debug\ExtentReports.dll

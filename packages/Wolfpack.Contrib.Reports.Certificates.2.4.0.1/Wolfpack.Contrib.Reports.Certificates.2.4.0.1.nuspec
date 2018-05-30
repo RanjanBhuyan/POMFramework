@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Wolfpack.Contrib.Reports.Certificates</id>
+    <version>2.4.0.1</version>
+    <title>Wolfpack.Contrib.Reports.Certificates</title>
+    <authors>FrankK</authors>
+    <owners>FrankK</owners>
+    <licenseUrl>http://wolfpackcontrib.codeplex.com/license</licenseUrl>
+    <projectUrl>https://wolfpackcontribv2point4.codeplex.com/</projectUrl>
+    <iconUrl>http://download.codeplex.com/Project/Download/FileDownload.aspx?ProjectName=Wolfpack&amp;DownloadId=140622&amp;Build=17672</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Wolfpack.Contrib.Reports.Certificates</description>
+    <summary>Not stable:Gathers Certificate counts regardless of status.</summary>
+    <releaseNotes>For Wolfpack 2.4</releaseNotes>
+    <tags>Wolfpack Monitoring Certificates</tags>
+  </metadata>
+</package>

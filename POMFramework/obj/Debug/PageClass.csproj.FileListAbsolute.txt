@@ -1,0 +1,13 @@
+C:\SelenuimTest\POMFramework\POMFramework\bin\Debug\POMFramework.dll
+C:\SelenuimTest\POMFramework\POMFramework\bin\Debug\POMFramework.pdb
+C:\SelenuimTest\POMFramework\POMFramework\bin\Debug\BaseClass.dll
+C:\SelenuimTest\POMFramework\POMFramework\bin\Debug\TestUtil.dll
+C:\SelenuimTest\POMFramework\POMFramework\bin\Debug\WebDriver.dll
+C:\SelenuimTest\POMFramework\POMFramework\bin\Debug\WebDriver.Support.dll
+C:\SelenuimTest\POMFramework\POMFramework\bin\Debug\BaseClass.pdb
+C:\SelenuimTest\POMFramework\POMFramework\bin\Debug\TestUtil.pdb
+C:\SelenuimTest\POMFramework\POMFramework\bin\Debug\WebDriver.xml
+C:\SelenuimTest\POMFramework\POMFramework\bin\Debug\WebDriver.Support.xml
+C:\SelenuimTest\POMFramework\POMFramework\obj\Debug\PageClass.csprojResolveAssemblyReference.cache
+C:\SelenuimTest\POMFramework\POMFramework\obj\Debug\POMFramework.dll
+C:\SelenuimTest\POMFramework\POMFramework\obj\Debug\POMFramework.pdb

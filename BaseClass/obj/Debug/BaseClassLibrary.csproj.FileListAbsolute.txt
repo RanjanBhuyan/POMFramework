@@ -1,0 +1,12 @@
+C:\SelenuimTest\POMFramework\BaseClass\bin\Debug\BaseClass.dll
+C:\SelenuimTest\POMFramework\BaseClass\bin\Debug\BaseClass.pdb
+C:\SelenuimTest\POMFramework\BaseClass\bin\Debug\TestUtil.dll
+C:\SelenuimTest\POMFramework\BaseClass\bin\Debug\WebDriver.dll
+C:\SelenuimTest\POMFramework\BaseClass\bin\Debug\WebDriver.Support.dll
+C:\SelenuimTest\POMFramework\BaseClass\bin\Debug\TestUtil.pdb
+C:\SelenuimTest\POMFramework\BaseClass\bin\Debug\WebDriver.xml
+C:\SelenuimTest\POMFramework\BaseClass\bin\Debug\WebDriver.Support.xml
+C:\SelenuimTest\POMFramework\BaseClass\obj\Debug\BaseClassLibrary.csprojResolveAssemblyReference.cache
+C:\SelenuimTest\POMFramework\BaseClass\obj\Debug\BaseClass.dll
+C:\SelenuimTest\POMFramework\BaseClass\obj\Debug\BaseClass.pdb
+C:\SelenuimTest\POMFramework\BaseClass\bin\Debug\ExtentReports.dll
